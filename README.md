@@ -1,4 +1,6 @@
 # HackerRank Solution
+### [java](https://github.com/Ashvin0740/HackerRank-Solution/tree/master/java)<br>
+### [30 Day of Code](https://github.com/Ashvin0740/HackerRank-Solution/tree/master/30%20day%20of%20code)
 
 ### 30 Day of Code
 
