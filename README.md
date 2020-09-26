@@ -1,5 +1,5 @@
 # HackerRank Solution
-- [java](https://github.com/Ashvin0740/HackerRank-Solution/tree/master/java)<br>
+- [java](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/README.md#java)<br>
 - [30 Day of Code](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/README.md#30-day-of-code)
 ---
 
