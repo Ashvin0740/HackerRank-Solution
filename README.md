@@ -19,6 +19,8 @@ Day | Challenge | Solution
 
 ## java
 
-Day | Challenge | Solution
--- | ---- | ----
-0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Solution.java) 
+Subdomain | Challenge | Points | Solution
+-- | ---- | ---- | ----
+Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | 3 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/HelloWorld.java) 
+Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | 5 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/StdinStdout%20.java) 
+Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/IfElse.java) 
