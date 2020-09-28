@@ -16,6 +16,7 @@ Day | Challenge | Solution
 6 | [ Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/String.java) 
 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Arrays.java) 
 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/HashMap.java) 
+9 | [ Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Factorial.java) 
 
 
 ## java
@@ -28,3 +29,6 @@ Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else
 Introduction | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Loops.java) 
 Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Formatting.java) 
 Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/challenge.java) 
+Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/LoopsII.java) 
+Introduction | [ Java Datatypes ](https://www.hackerrank.com/challenges/java-datatypes/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/DataType.java) 
+Introduction | [ Java End-of-file ](https://www.hackerrank.com/challenges/java-end-of-file/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Endoffile.java) 
