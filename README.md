@@ -17,6 +17,7 @@ Day | Challenge | Solution
 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Arrays.java) 
 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/HashMap.java) 
 9 | [ Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Factorial.java) 
+10 | [ Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Binary.java)
 
 
 ## java
@@ -32,3 +33,6 @@ Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i
 Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/LoopsII.java) 
 Introduction | [ Java Datatypes ](https://www.hackerrank.com/challenges/java-datatypes/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/DataType.java) 
 Introduction | [ Java End-of-file ](https://www.hackerrank.com/challenges/java-end-of-file/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Endoffile.java) 
+Introduction | [ Java Static Initializer Block ](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Static.java) 
+Introduction | [ Java Int to String ](https://www.hackerrank.com/challenges/java-int-to-string/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/InToString.java) 
+Introduction | [ Java Date and Time ](https://www.hackerrank.com/challenges/java-date-and-time/problem) | 15 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/DateAndTime.java) 
