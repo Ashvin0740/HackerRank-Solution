@@ -18,7 +18,8 @@ Day | Challenge | Solution
 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/HashMap.java) 
 9 | [ Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Factorial.java) 
 10 | [ Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Binary.java)
-
+11 | [ 2D Arrays Binary Numbers](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/2D%20Arrays.java)
+12 | [ Inheritance ](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Inheritance.java)
 
 ## java
 
