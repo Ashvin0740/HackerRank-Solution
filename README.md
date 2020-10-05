@@ -20,6 +20,10 @@ Day | Challenge | Solution
 10 | [ Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Binary.java)
 11 | [ 2D Arrays Binary Numbers](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/2D%20Arrays.java)
 12 | [ Inheritance ](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Inheritance.java)
+13 | [  Abstract Classes ](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Abstract%20Classes.java)
+14 | [ Scope ](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Scope.java)
+15 | [ Linked List ](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Linked%20List.java)
+16 | [ Exceptions - String to Integer ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Exceptions%20-%20String%20to%20Integer.java)
 
 ## java
 
