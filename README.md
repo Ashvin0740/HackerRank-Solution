@@ -24,7 +24,7 @@ Day | Challenge | Solution
 14 | [ Scope ](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Scope.java)
 15 | [ Linked List ](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Linked%20List.java)
 16 | [ Exceptions - String to Integer ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Exceptions%20-%20String%20to%20Integer.java)
-
+17 | [ More Exceptions ](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/More%20Exceptions.java)
 ## java
 
 Subdomain | Challenge | Points | Solution
