@@ -5,30 +5,30 @@
 
 ## 30 Day of Code
 
-Day | Challenge | Solution
--- | ---- | ----
-0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Solution.java) 
-1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)   | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/DataType.java)
-2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Operator.java)
-3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)   | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/ConditionalStatements.java)
-4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)  | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Person.java)
-5 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)  | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/MultiplicationTable.java)
-6 | [ Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/String.java) 
-7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Arrays.java) 
-8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/HashMap.java) 
-9 | [ Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Factorial.java) 
-10 | [ Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Binary.java)
-11 | [ 2D Arrays Binary Numbers](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/2D%20Arrays.java)
-12 | [ Inheritance ](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Inheritance.java)
-13 | [  Abstract Classes ](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Abstract%20Classes.java)
-14 | [ Scope ](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Scope.java)
-15 | [ Linked List ](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Linked%20List.java)
-16 | [ Exceptions - String to Integer ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Exceptions%20-%20String%20to%20Integer.java)
-17 | [ More Exceptions ](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/More%20Exceptions.java)
-18 | [ Queues and Stacks ](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Queues%20and%20Stacks.java)
-19 | [ Interfaces ](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Interfaces.java)
-20 | [ Sorting ](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/bubble%20sort.java)
-20 | [ Generics ](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Generics.java)
+Day | Challenge | Solution | Difficulty | Max Score
+--- | --------- | -------- | ---------- | ---------
+0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Solution.java) | Easy | 30
+1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)   | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/DataType.java)| Easy | 30
+2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Operator.java) | Easy | 30
+3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)   | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/ConditionalStatements.java) | Easy | 30
+4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)  | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Person.java) | Easy | 30
+5 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)  | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/MultiplicationTable.java) | Easy | 30
+6 | [ Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/String.java)  | Easy | 30
+7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Arrays.java)  | Easy | 30
+8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/HashMap.java)  | Easy | 30
+9 | [ Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Factorial.java)  | Easy | 30
+10 | [ Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Binary.java) | Easy | 30
+11 | [ 2D Arrays Binary Numbers](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/2D%20Arrays.java) | Easy | 30
+12 | [ Inheritance ](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Inheritance.java) | Easy | 30
+13 | [  Abstract Classes ](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Abstract%20Classes.java) | Easy | 30
+14 | [ Scope ](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Scope.java) | Easy | 30
+15 | [ Linked List ](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Linked%20List.java) | Easy | 30
+16 | [ Exceptions - String to Integer ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Exceptions%20-%20String%20to%20Integer.java) | Easy | 30
+17 | [ More Exceptions ](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/More%20Exceptions.java) | Easy | 30
+18 | [ Queues and Stacks ](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Queues%20and%20Stacks.java) | Easy | 30
+19 | [ Interfaces ](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Interfaces.java) | Easy | 30
+20 | [ Sorting ](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/bubble%20sort.java) | Easy | 30
+21 | [ Generics ](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Generics.java) | Easy | 30
 
 
 ---
