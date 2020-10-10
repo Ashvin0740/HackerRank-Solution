@@ -28,6 +28,8 @@ Day | Challenge | Solution
 18 | [ Queues and Stacks ](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Queues%20and%20Stacks.java)
 19 | [ Interfaces ](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Interfaces.java)
 20 | [ Sorting ](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/bubble%20sort.java)
+20 | [ Generics ](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Generics.java)
+
 
 ---
 
