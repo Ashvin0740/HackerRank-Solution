@@ -30,6 +30,8 @@ Day | Challenge | Solution | Difficulty | Max Score
 20 | [ Sorting ](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/bubble%20sort.java) | Easy | 30
 21 | [ Generics ](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Generics.java) | Easy | 30
 22 | [ Binary Search Trees ](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Binary%20Search%20Trees.java) | Easy | 30
+23 | [ BST Level-Order Traversal ](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/BST%20Level-Order%20Traversal.java) | Easy | 30
+
 
 ---
 
