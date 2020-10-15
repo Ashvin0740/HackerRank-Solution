@@ -33,6 +33,7 @@ Day | Challenge | Solution | Difficulty | Max Score
 23 | [ BST Level-Order Traversal ](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/BST%20Level-Order%20Traversal.java) | Easy | 30
 24 | [ More Linked Listsl ](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem?utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/More%20Linked%20Lists.java) | Easy | 30
 25 | [ Running Time and Complexity ](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem?utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Running%20Time%20and%20Complexity.java) | Medium | 30
+26 | [ Nested Logic ](https://www.hackerrank.com/challenges/30-nested-logic/problem?utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Nested%20Logic.java) | Easy | 30
 
 ---
 
