@@ -36,6 +36,7 @@ Day | Challenge | Solution | Difficulty | Max Score
 26 | [ Nested Logic ](https://www.hackerrank.com/challenges/30-nested-logic/problem?utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Nested%20Logic.java) | Easy | 30
 27 | [ Testing ](https://www.hackerrank.com/challenges/30-testing/problem?utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Testing.java) | Easy | 30
 28 | [ RegEx, Patterns, and Intro to Databases ](https://www.hackerrank.com/challenges/30-regex-patterns/problem?utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.java) | Medium | 30
+29 | [ Bitwise AND ](https://www.hackerrank.com/challenges/30-bitwise-and/problem?utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/30%20day%20of%20code/Bitwise%20AND.java) | Medium | 30
 
 ---
 
