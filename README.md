@@ -1,7 +1,7 @@
 # HackerRank Solution
 - [java](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/README.md#java)<br>
 - [30 Day of Code](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/README.md#30-day-of-code)
-- [Problem Solving](https://www.hackerrank.com/domains/algorithms)
+- [Problem Solving](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/README.md#problem-solving)
 ---
 
 ## 30 Day of Code
