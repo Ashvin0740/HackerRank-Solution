@@ -66,6 +66,6 @@ Strings | [Java Substring](https://www.hackerrank.com/challenges/java-substring/
 
 Subdomain | Challenge | Solution | Difficulty | Max Score
 ----------|-----------|----------|------------|----------
-Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaSubstring.java) | 1
+Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Solve%20Me%20First.java) | 1
 
 
