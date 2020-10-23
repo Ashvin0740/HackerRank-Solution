@@ -1,6 +1,7 @@
 # HackerRank Solution
 - [java](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/README.md#java)<br>
 - [30 Day of Code](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/README.md#30-day-of-code)
+- [Problem Solving](https://www.hackerrank.com/domains/algorithms)
 ---
 
 ## 30 Day of Code
@@ -60,5 +61,10 @@ Introduction | [ Java Date and Time ](https://www.hackerrank.com/challenges/java
 Introduction | [ Java Currency Formatter ](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | 15 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/CurrencyFormatter.java) 
 Strings | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaStringIntroduction.java)
 Strings | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaSubstring.java)
+
+
+
+Subdomain | Challenge | Solution | Difficulty | Max Score
+----------|-----------|----------|------------|----------
 
 
