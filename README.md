@@ -62,6 +62,7 @@ Introduction | [ Java Currency Formatter ](https://www.hackerrank.com/challenges
 Strings | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaStringIntroduction.java)
 Strings | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaSubstring.java)
 Strings | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Substring%20Comparisons.java)
+Strings | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20String%20Reverse.java)
 
 
 ## Problem Solving
