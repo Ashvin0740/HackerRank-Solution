@@ -44,25 +44,25 @@ Day | Challenge | Solution | Difficulty | Max Score
 
 ## java
 
-Subdomain | Challenge | Points | Solution
--- | ---- | ---- | ----
-Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | 3 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/HelloWorld.java) 
-Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | 5 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/StdinStdout%20.java) 
-Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/IfElse.java) 
-Introduction | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Loops.java) 
-Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Formatting.java) 
-Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/challenge.java) 
-Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/LoopsII.java) 
-Introduction | [ Java Datatypes ](https://www.hackerrank.com/challenges/java-datatypes/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/DataType.java) 
-Introduction | [ Java End-of-file ](https://www.hackerrank.com/challenges/java-end-of-file/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Endoffile.java) 
-Introduction | [ Java Static Initializer Block ](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Static.java) 
-Introduction | [ Java Int to String ](https://www.hackerrank.com/challenges/java-int-to-string/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/InToString.java) 
-Introduction | [ Java Date and Time ](https://www.hackerrank.com/challenges/java-date-and-time/problem) | 15 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/DateAndTime.java) 
-Introduction | [ Java Currency Formatter ](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | 15 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/CurrencyFormatter.java) 
-Strings | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaStringIntroduction.java)
-Strings | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaSubstring.java)
-Strings | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Substring%20Comparisons.java)
-Strings | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20String%20Reverse.java)
+No.| Subdomain | Challenge | Points | Solution | Difficulty 
+---|-----------| --------- | ------ | ---------|------------
+1| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | 3 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/HelloWorld.java) |Easy
+2| Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | 5 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/StdinStdout%20.java) |Easy
+3| Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/IfElse.java) |Easy|
+4| Introduction | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Loops.java) |Easy|
+5| Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Formatting.java) |Easy|
+6| Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/challenge.java) |Easy|
+7| Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/LoopsII.java) |Easy|
+8| Introduction | [ Java Datatypes ](https://www.hackerrank.com/challenges/java-datatypes/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/DataType.java) |Easy|
+9| Introduction | [ Java End-of-file ](https://www.hackerrank.com/challenges/java-end-of-file/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Endoffile.java) |Easy|
+10| Introduction | [ Java Static Initializer Block ](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Static.java) |Easy|
+11| Introduction | [ Java Int to String ](https://www.hackerrank.com/challenges/java-int-to-string/problem) | 10 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/InToString.java) |Easy|
+12| Introduction | [ Java Date and Time ](https://www.hackerrank.com/challenges/java-date-and-time/problem) | 15 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/DateAndTime.java) |Easy|
+13| Introduction | [ Java Currency Formatter ](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | 15 |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/CurrencyFormatter.java) |Easy|
+14| Strings | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaStringIntroduction.java)|Easy|
+15| Strings | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaSubstring.java)|Easy|
+16| Strings | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Substring%20Comparisons.java)|Easy|
+17| Strings | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20String%20Reverse.java)|Easy|
 
 
 ## Problem Solving
