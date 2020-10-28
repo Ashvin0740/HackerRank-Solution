@@ -71,4 +71,4 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 -----------|----------|-----------|----------|------------|----------
 1 | Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Solve%20Me%20First.java) | Easy | 1
 2 | Warmup | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Simple%20Array%20Sum.java) | Easy | 10
-
+ | Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Simple%20Array%20Sum.java) | Easy | 10
