@@ -63,7 +63,7 @@ No.| Subdomain | Challenge | Points | Solution | Difficulty
 15| Strings | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/JavaSubstring.java)|Easy|
 16| Strings | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Substring%20Comparisons.java)|Easy|
 17| Strings | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20String%20Reverse.java)|Easy|
-
+18| Strings | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Anagrams.java)|Easy
 
 ## Problem Solving
 
