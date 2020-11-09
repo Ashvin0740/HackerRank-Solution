@@ -76,3 +76,4 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 3| Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Compare%20the%20Triplets.java) | Easy | 10
 4| Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/A%20Very%20Big%20Sum.java) | Easy | 10
 5| Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Diagonal%20Difference.java) | Easy | 10
+6| Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Plus%20Minus.java) | Easy | 10
