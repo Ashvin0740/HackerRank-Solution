@@ -66,6 +66,7 @@ No.| Subdomain | Challenge | Points | Solution | Difficulty
 18| Strings | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Anagrams.java)|Easy
 19| Strings | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | 15| [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20String%20Tokens.java)|Easy
 20| Strings | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | 20| [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Pattern%20Syntax%20Checker.java)|Easy
+21| Strings | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | 25| [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Regex.java)|Medium
 
 ## Problem Solving
 
@@ -76,3 +77,4 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 3| Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Compare%20the%20Triplets.java) | Easy | 10
 4| Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/A%20Very%20Big%20Sum.java) | Easy | 10
 5| Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Diagonal%20Difference.java) | Easy | 10
+6| Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Plus%20Minus.java) | Easy | 10
