@@ -80,4 +80,4 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 6| Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Plus%20Minus.java) | Easy | 10
 7| Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Staircase.java) | Easy | 10
 8| Warmup | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Mini-Max%20Sum.java) | Easy | 10
-| Warmup | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Birthday%20Cake%20Candles.java) | Easy | 10
+9| Warmup | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/problem%20solving/Birthday%20Cake%20Candles.java) | Easy | 10
