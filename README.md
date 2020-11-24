@@ -69,8 +69,8 @@ No.| Subdomain | Challenge | Points | Solution | Difficulty
 21| Strings | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | 25| [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Regex.java)|Medium
 22| Strings | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | 25| [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Regex%202%20-%20Duplicate%20Words.java)|Medium
 23| Strings | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Valid%20Username%20Regular%20Expression.java)|Medium
-24| Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Tag%20Content%20Extractor.java)|Medium
-
+24| Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Tag%20Content%20Extractor.java)| Medium
+25| BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20BigInteger.java)| Easy
 ## Problem Solving
 
 problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
