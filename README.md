@@ -71,6 +71,7 @@ No.| Subdomain | Challenge | Points | Solution | Difficulty
 23| Strings | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Valid%20Username%20Regular%20Expression.java)|Medium
 24| Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Tag%20Content%20Extractor.java)| Medium
 25| BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20BigInteger.java)| Easy
+26| BigNumber | [Java Primality Test](https://www.hackerrank.com/challenges/java-biginteger/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Primality%20Test.java)| Easy
 ## Problem Solving
 
 problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
