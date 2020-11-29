@@ -73,6 +73,7 @@ No.| Subdomain | Challenge | Points | Solution | Difficulty
 25| BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20BigInteger.java)| Easy
 26| BigNumber | [Java Primality Test](https://www.hackerrank.com/challenges/java-biginteger/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Primality%20Test.java)| Easy
 27| BigNumber | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20BigDecimal.java)| Medium
+28| Data Structures | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%201D%20Array.java)| Easy
 ## Problem Solving
 
 problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
