@@ -72,6 +72,7 @@ No.| Subdomain | Challenge | Points | Solution | Difficulty
 24| Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Tag%20Content%20Extractor.java)| Medium
 25| BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20BigInteger.java)| Easy
 26| BigNumber | [Java Primality Test](https://www.hackerrank.com/challenges/java-biginteger/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Primality%20Test.java)| Easy
+27| BigNumber | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | 20 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20BigDecimal.java)| Medium
 ## Problem Solving
 
 problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
