@@ -76,6 +76,9 @@ No.| Subdomain | Challenge | Points | Solution | Difficulty
 28| Data Structures | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | 5 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%201D%20Array.java)| Easy
 29| Data Structures | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%202D%20Array.java)| Easy
 30| Data Structures | [java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Subarray.java)| Easy
+31| Data Structures | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) | 10 | [Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/java/Java%20Arraylist.java)| Easy
+
+
 ## Problem Solving
 
 problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
