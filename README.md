@@ -104,4 +104,5 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 
 problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 -----------|----------|-----------|----------|------------|----------
-1 | Introduction | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/Hello%20World.cpp) | Easy | 5
+1 | Introduction | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/HelloWorld.cpp) | Easy | 5
+2 | Introduction | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/InputandOutput.cpp) | Easy | 5
