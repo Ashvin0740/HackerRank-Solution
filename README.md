@@ -108,7 +108,6 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 2 | Introduction | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/InputandOutput.cpp) | Easy | 5
 3 | Introduction | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/basicDataTypes.cpp) | Easy | 10
 4 | Introduction | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/conditionalStatements.cpp) | Easy | 10
-
-
+5 | Introduction | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/forLoop.cpp) | Easy | 10
 
 
