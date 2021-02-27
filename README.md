@@ -109,5 +109,5 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 3 | Introduction | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/basicDataTypes.cpp) | Easy | 10
 4 | Introduction | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/conditionalStatements.cpp) | Easy | 10
 5 | Introduction | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/forLoop.cpp) | Easy | 10
-5 | Introduction | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/functions.cpp) | Easy | 10
+6 | Introduction | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/functions.cpp) | Easy | 10
 
