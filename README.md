@@ -111,4 +111,4 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 5 | Introduction | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/forLoop.cpp) | Easy | 10
 6 | Introduction | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/functions.cpp) | Easy | 10
 7 | Introduction | [Pointr](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/Pointer.cpp) | Easy | 10
-8 | Introduction | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/Pointer.cpp) | Easy | 10
+8 | Introduction | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/ArraysIntroduction.cpp) | Easy | 10
