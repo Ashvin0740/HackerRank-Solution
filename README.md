@@ -113,3 +113,4 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 7 | Introduction | [Pointr](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/Pointer.cpp) | Easy | 10
 8 | Introduction | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/ArraysIntroduction.cpp) | Easy | 10
 9 | Introduction | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/VariableSizedArrays.cpp) | Easy | 30
+10 | Introduction | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/VariableSizedArrays.cpp) | Easy | 10
