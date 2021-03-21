@@ -114,4 +114,4 @@ problem No.|Subdomain | Challenge | Solution | Difficulty | Max Score
 8 | Introduction | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/ArraysIntroduction.cpp) | Easy | 10
 9 | Introduction | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/VariableSizedArrays.cpp) | Easy | 30
 10 | Strings | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/stringStream.cpp) | Easy | 10
-11 | Strings | [String](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/stringStream.cpp) | Easy | 10
+11 | Strings | [String](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) |[Solution](https://github.com/Ashvin0740/HackerRank-Solution/blob/master/C%2B%2B/string.cpp) | Easy | 10
